@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "Content-Type: text/html"
+echo ""
+echo "<p class=\"bash\">Hello, bash!</p>"
